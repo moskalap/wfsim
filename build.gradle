@@ -4,6 +4,7 @@ plugins {
 
 group 'pl.edu.agh'
 version '1.0-SNAPSHOT'
+
 apply plugin:'application'
 mainClassName = "pl.edu.wfsim.App"
 
